@@ -19,7 +19,7 @@ For Debian/Ubuntu:
 
 ```bash
 sudo apt update && sudo apt install nmap
-git clone https://github.com/yourusername/sye-nmap-tool.git
+git clone https://github.com/syesociety/nmapsye-advanced
 cd sye-nmap-tool
 chmod +x sye-nmap.sh
 ./sye-nmap.sh
